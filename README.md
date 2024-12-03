@@ -1,4 +1,4 @@
-Huggingface Transformers를 사용하여 긴 글 요약
+## Huggingface Transformers를 사용하여 긴 글 요약
 
 주어진 텍스트 파일의 내용을 Huggingface Transformers를 활용해 요약합니다.  
 Python으로 구현된 간단하고 강력한 텍스트 요약 도구입니다.
