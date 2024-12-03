@@ -7,7 +7,7 @@ def summarize_text(file_path):
     summary = summarizer(text, max_length=130, min_length=30, do_sample=False)
     return summary[0]['summary_text']
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     input_file = "examples/example1.txt"
     summarized_text = summarize_text(input_file)
     print(f"Original Text:\n{open(input_file).read()}\n")
