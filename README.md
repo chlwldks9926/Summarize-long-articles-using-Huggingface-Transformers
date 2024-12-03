@@ -22,6 +22,14 @@ Python으로 구현된 간단하고 강력한 텍스트 요약 도구입니다.
 
 ---
 
+### 원문 예시 (example1.txt)
+Climate change continues to have profound effects on the planet, causing rising sea levels, more frequent extreme weather events, and dramatic changes in ecosystems. Scientists around the world are working tirelessly to study these impacts and propose potential solutions to mitigate the worst effects of global warming. For instance, renewable energy sources like solar, wind, and hydroelectric power are being adopted at an unprecedented rate, but challenges in infrastructure and energy storage remain. Meanwhile, international agreements such as the Paris Accord aim to unite nations in a shared goal to limit global temperature rise to below 2 degrees Celsius. However, progress has been uneven, with some countries failing to meet their commitments. The urgency of addressing climate change cannot be overstated, as the decisions made today will shape the world for future generations.
+
+### 요약 결과
+Climate change is causing rising sea levels, extreme weather, and ecosystem changes. Scientists are studying impacts and proposing solutions, with renewable energy adoption increasing. However, infrastructure and storage challenges persist. The Paris Accord aims to limit global temperature rise, but progress has been uneven. Urgent action is needed to shape the future.
+
+---
+
 ## 요구사항:
 **다음 버전에서 테스트되었습니다**:
 - **Python**: 3.8+
